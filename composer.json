@@ -1,6 +1,6 @@
 {
     "name": "o-kazuhide-takahashi/phpinsights",
-    "description": "Instant PHP quality checks from your console.",
+    "description": "Instant PHP quality checks from your console. for php 8.3",
     "keywords": [
         "php",
         "insights",
